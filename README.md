@@ -1,7 +1,7 @@
 ## Hi, I'm Jenella Kisses 👋
 
 # 💫 About Me:
-I am an IT student passionate about expanding my knowledge in both front-end and back-end development. I have experience with web technologies and databases, and I continuously work on improving my skills through projects and learning. Currently, I am planning to explore DevOps practices to broaden my technical expertise.<br>🔭 I’m currently working on my personal portfolio<br>🤝 I’m looking forward to collaborating on open-source projects<br>🌱 I’m currently learning Web Development<br>
+I am an IT student passionate about expanding my knowledge in both front-end and back-end development. I have hands-on experience with web technologies and databases, and I continuously work on improving my skills through projects and structured learning. I am also focused on expanding my expertise in cloud computing to strengthen my technical foundation.<br>🔭 I’m currently working on my personal portfolio<br>🤝 I’m looking forward to collaborating on open-source projects<br>🌱 I’m continuously upskilling in Web Development and Cloud Computing<br>
 
 
 ## 🌐 Socials:
